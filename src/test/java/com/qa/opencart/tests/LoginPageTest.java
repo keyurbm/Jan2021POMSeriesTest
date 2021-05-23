@@ -13,8 +13,6 @@ import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 
-//Login Page Test
-
 @Epic("Epic 500: Design login page for demo cart application")
 @Story("US 100: Develop a feature with all login page scenarios")
 public class LoginPageTest extends BaseTest {
