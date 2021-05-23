@@ -1,0 +1,136 @@
+{
+  "30ec9acd75f5483955fb30ecf951b02c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bb1c09426a0ad35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249958760,
+        "stop" : 1619249960333,
+        "duration" : 1573
+      }
+    } ]
+  },
+  "3da15b6015b24da82d70b874a4337be2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3e6602eed19b79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249945686,
+        "stop" : 1619249953019,
+        "duration" : 7333
+      }
+    } ]
+  },
+  "f1f8f8428d8afffc70818bde6ca5dc81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d015686f317fd73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249958744,
+        "stop" : 1619249958760,
+        "duration" : 16
+      }
+    } ]
+  },
+  "a33d64ec35609464f4f31c9eebe33017" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5878c9424ca1e334",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249931006,
+        "stop" : 1619249938423,
+        "duration" : 7417
+      }
+    } ]
+  },
+  "9b1a20a5835c3a4cf9f6414b887d7c72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "644908d62552e0d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249960333,
+        "stop" : 1619249966824,
+        "duration" : 6491
+      }
+    } ]
+  },
+  "e0c4952d4fb9f4f9dce48d1505704464" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1b5e64793bd4231",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249938534,
+        "stop" : 1619249945671,
+        "duration" : 7137
+      }
+    } ]
+  },
+  "c88f41bc19403e65befa92eaa1a1e844" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72025e8f81f74721",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for title to be \"Account Login11\". Current title: \"Account Login\" (tried for 5 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'KEYUR', ip: '192.168.29.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.85, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\Lenovo\\AppData\\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2faf152bc84c8617249acccb027803a1",
+      "time" : {
+        "start" : 1619249953019,
+        "stop" : 1619249958377,
+        "duration" : 5358
+      }
+    } ]
+  }
+}

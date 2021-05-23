@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.qa.opencart.tests.LoginPageTest",
+    "children" : [ {
+      "name" : "loginNegativeTest",
+      "uid" : "5878c9424ca1e334",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249931006,
+        "stop" : 1619249938423,
+        "duration" : 7417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "test@gmail.com", "test@123", "chrome" ]
+    }, {
+      "name" : "loginNegativeTest",
+      "uid" : "f1b5e64793bd4231",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249938534,
+        "stop" : 1619249945671,
+        "duration" : 7137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ " ", "test@123", "chrome" ]
+    }, {
+      "name" : "loginNegativeTest",
+      "uid" : "b3e6602eed19b79",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249945686,
+        "stop" : 1619249953019,
+        "duration" : 7333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ " ", " ", "chrome" ]
+    }, {
+      "name" : "loginPageTitleTest",
+      "uid" : "72025e8f81f74721",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "broken",
+      "time" : {
+        "start" : 1619249953019,
+        "stop" : 1619249958377,
+        "duration" : 5358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "loginPageUrlTest",
+      "uid" : "9d015686f317fd73",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249958744,
+        "stop" : 1619249958760,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "forgotPwdLinkTest",
+      "uid" : "5bb1c09426a0ad35",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249958760,
+        "stop" : 1619249960333,
+        "duration" : 1573
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "loginTest",
+      "uid" : "644908d62552e0d2",
+      "parentUid" : "85413f3b2fbbe54ef0d8ebbe02d63296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619249960333,
+        "stop" : 1619249966824,
+        "duration" : 6491
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "com.qa.opencart.tests.LoginPageTest"
+  } ]
+}
